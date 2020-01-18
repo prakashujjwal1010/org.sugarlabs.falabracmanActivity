@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://www.github.com/TelepathyIM/telepathy-glib.git
+	fetch = +refs/*:refs/*
+[transfer]
+	fsckObjects = 1

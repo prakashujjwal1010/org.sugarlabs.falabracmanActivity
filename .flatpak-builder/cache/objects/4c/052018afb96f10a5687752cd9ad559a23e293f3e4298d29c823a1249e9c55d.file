@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<component type="desktop-application">
+    <translation type="gettext">org.sugarlabs.falabracmanActivity</translation>
+    <update_contact>prakashujjwal1010@gmail.com</update_contact>
+    <developer_name>Sugar Labs Community</developer_name>
+    <id>org.sugarlabs.falabracmanActivity</id>
+    <launchable type="desktop-id">org.sugarlabs.falabracmanActivity.desktop</launchable>
+    <description>
+        <p>Help Falabracman learn some words, by collecting all the letters in the right order</p>
+    </description>
+    <content_rating type="oars-1.1"/>
+    <releases>
+        <release date="2020-01-18" version="2"/>
+    </releases>
+    <project_license>GPL-3.0-or-later</project_license>
+    <metadata_license>CC0-1.0</metadata_license>
+    <summary>collect the letters of the word in correct order</summary>
+    <name>falabracman</name>
+    <screenshots>
+        <screenshot type="default">
+            <image>https://activities.sugarlabs.org/en-US/sugar/images/p/273/1252990860</image>
+        </screenshot>
+    </screenshots>
+    <url type="bugtracker">https://github.com/sugarlabs/falabracman-activity.git</url>
+</component>

@@ -1,0 +1,17 @@
+../../../../bin/sugarapp
+../../../../bin/sugarapp-gen-appdata
+../../../../bin/sugarapp-gen-desktop
+../../../../bin/sugarapp-gen-mimetypes
+../sugarapp/__init__.py
+../sugarapp/__pycache__/__init__.cpython-37.pyc
+../sugarapp/__pycache__/application.cpython-37.pyc
+../sugarapp/__pycache__/helpers.cpython-37.pyc
+../sugarapp/__pycache__/widgets.cpython-37.pyc
+../sugarapp/application.py
+../sugarapp/helpers.py
+../sugarapp/widgets.py
+PKG-INFO
+SOURCES.txt
+dependency_links.txt
+not-zip-safe
+top_level.txt
