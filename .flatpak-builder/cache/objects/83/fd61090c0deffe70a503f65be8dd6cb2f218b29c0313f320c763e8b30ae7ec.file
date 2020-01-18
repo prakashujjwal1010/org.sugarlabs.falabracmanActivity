@@ -1,5 +1,0 @@
-[Runtime]
-name=org.sugarlabs.falabracmanActivity.Debug
-
-[ExtensionOf]
-ref=app/org.sugarlabs.falabracmanActivity/x86_64/master

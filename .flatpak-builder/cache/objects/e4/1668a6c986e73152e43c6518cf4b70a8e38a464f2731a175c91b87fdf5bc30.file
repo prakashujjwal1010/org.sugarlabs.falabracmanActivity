@@ -1,5 +1,0 @@
-#!/usr/bin/env python2
-
-from sugar3.activity import activityinstance
-
-activityinstance.main()
