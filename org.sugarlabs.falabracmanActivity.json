@@ -219,7 +219,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/sugarlabs/falabracman-activity",
-                    "commit": "586223a93a67f3cfa5c750b535b900542c0cdc60"
+                    "commit": "6f378e8421a4cbbf22d54d29be9b8407654f9d61"
                 },
                 {
                     "type": "patch",
